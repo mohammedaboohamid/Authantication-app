@@ -1,7 +1,8 @@
 import app from "./src/app.js";
 import colors from "colors"
+import config from "./src/config/config.js";
 
-const PORT =4000
+const PORT =config.PORT
 
 app.listen(PORT,()=>{
     console.log(`App is running at PORT:${PORT}` .bgBlack.rainbow);
