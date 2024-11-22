@@ -14,3 +14,18 @@ A status code is  a three digit code thet a server sends to a browser in respons
 300-399 rediractional Msg 
 400-499 client side error
 500-599 server side error
+
+MVC - model view controllers
+
+
+
+21 product update and delete
+collection price pagination
+search filter and single product
+collection page filter
+shopping cart
+manage user profile
+payment gaytway
+user order list 
+admin manage orders
+final tech

@@ -5,7 +5,7 @@ import mongoose from "mongoose";
 (async(req,res)=>{
 try{
 
-    await mongoose. connect(config.MONGODB_URL)
+    await mongoose.connect(config.MONGODB_URL)
     console.log("successfully connected to MONGODB".bgBlue.white);
     
 
